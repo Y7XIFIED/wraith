@@ -1,6 +1,6 @@
 # Wraith
 
-Live Deployment: [https://wraith-two.vercel.app](https://wraith-two.vercel.app)
+Live Deployment: [https://wraaith-nu.vercel.app](https://wraaith-nu.vercel.app)
 
 ## Local Development
 

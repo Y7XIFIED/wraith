@@ -1,7 +1,5 @@
 # Wraith
 
-Live Deployment: [https://wraaaaith.vercel.app](https://wraaaaith.vercel.app)
-
 ## Local Development
 
 1. Clone the repository.

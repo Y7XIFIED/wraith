@@ -1,13 +1,13 @@
-# Wraith
+<h3 align="center"><b>WRAITH</b></h3>
 
-Live Deployment: [https://wraaaaith.vercel.app](https://wraaaaith.vercel.app)
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite" /></p>
 
-## Local Development
+Dive into this mind-blowing, interactive web experience! Watch as it reacts seamlessly to your cursor. It is a visually stunning and dynamic web experiment built to bring some extra life to the browser.
 
-1. Clone the repository.
-2. Run `npm install`
-3. Run `npm run dev`
+## 🚀 Live Website
+Experience the fully interactive website live here: [https://wraaaaith.vercel.app](https://wraaaaith.vercel.app)
 
-Made by Y7XIFIED
-
+## Preview
 ![Preview Demo](preview.gif)
+
+<div align="center"><p>Y7XIFIED</p></div>
